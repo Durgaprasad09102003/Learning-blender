@@ -1,0 +1,70 @@
+1. Day 1: Getting Started
+   - Learn the Blender interface, navigation, and basic controls.
+   - Project: Create and manipulate basic shapes (cube, sphere, cylinder).
+
+
+
+
+
+
+Sure! Blender is a powerful open-source 3D modeling and animation software. Here's a basic guide to help you navigate and use the Blender interface:
+
+### Blender Interface
+
+1. Editor Types:
+   - **3D Viewport**: Where you create and manipulate objects.
+   - **Outliner**: A hierarchical view of all objects in your scene.
+   - **Properties Editor**: Contains tabs for render settings, object properties, material settings, etc.
+   - **Timeline**: Used for animation, showing frames and keyframes.
+
+2. **Layout**:
+   - **Top Bar**: Contains the main menus (File, Edit, Render, etc.).
+   - **Tool Shelf** (on the left in the 3D Viewport): Contains tools for object manipulation.
+   - **Properties Shelf** (on the right in the 3D Viewport): Contains properties of the selected object.
+   - **Status Bar**: At the bottom, it shows information about the current operation and selection.
+
+### Navigation
+
+1. **View Navigation**:
+   - **Rotate View**: Middle Mouse Button (MMB) and drag.
+   - **Pan View**: Shift + MMB and drag.
+   - **Zoom**: Scroll the Mouse Wheel or Ctrl + MMB and drag up/down.
+   - **Reset View**: Numpad 0 (for camera view), Numpad 1 (front view), Numpad 3 (side view), Numpad 7 (top view).
+
+2. **Object Navigation**:
+   - **Select**: Left Mouse Button (LMB).
+   - **Deselect**: Click outside of the objects or press `A` to select/deselect all.
+   - **Box Select**: `B` then drag a rectangle around the objects.
+   - **Circle Select**: `C` then use LMB to select objects in the circle area.
+
+### Basic Controls
+
+1. **Transformations**:
+   - **Move**: `G` (Grab) then move the object. Press `X`, `Y`, or `Z` to constrain to an axis.
+   - **Rotate**: `R` then rotate the object. Press `X`, `Y`, or `Z` to constrain to an axis.
+   - **Scale**: `S` then scale the object. Press `X`, `Y`, or `Z` to constrain to an axis.
+
+2. **Object Mode vs Edit Mode**:
+   - **Object Mode**: `Tab` to switch between Object and Edit modes.
+   - **Edit Mode**: Used for modifying the shape of the mesh.
+
+3. **Adding Objects**:
+   - Press `Shift + A` to open the Add menu, then select the type of object (e.g., Mesh > Cube).
+
+4. **Deleting Objects**:
+   - Select the object and press `X` or `Delete`.
+
+5. **Modifiers**:
+   - Found in the Properties Editor under the wrench icon. Useful for non-destructive operations like subdivision, mirror, and boolean operations.
+
+6. **Saving and Exporting**:
+   - Save your project with `Ctrl + S`.
+   - Export your model using `File > Export` and choose the desired format (e.g., .obj, .fbx).
+
+### Tips
+
+- **Undo/Redo**: `Ctrl + Z` to undo, `Ctrl + Shift + Z` to redo.
+- **Duplicate**: `Shift + D` to duplicate objects.
+- **Snapping**: Toggle snapping with `Shift + Tab`.
+
+This should give you a good start with Blender. If you have any specific questions or need more detailed instructions on a particular feature, feel free to ask!
