@@ -1,0 +1,3 @@
+3. **Day 3: Object Transformation**
+   - Understand translation, rotation, and scaling.
+   - Project: Create a chair and adjust its position, rotation, and size.
